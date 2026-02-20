@@ -1,0 +1,7 @@
+{
+  "name": "Gemini AI Chatbot",
+  "description": "Asisten AI minimalis berbasis Gemini untuk analisis teks, gambar, dan dokumen.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
